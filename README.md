@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Salvador Gomes  
+## Hi👋, I'm Salvador Gomes  
 ### Software Engineer
 
 - 🔭 I’m currently working on web applications  
