@@ -1,32 +1,24 @@
 ## Hi👋, I'm Salvador Gomes  
 
 
-### Software Engineer
-
-- 🔭 I’m currently working on web applications  
-- 🌱 I’m currently learning programming and new technologies  
-- 👯 I’m looking to collaborate on software projects  
-- 💬 Ask me about web development  
-- 📫 How to reach me: GitHub  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I like coding and learning new things
-<div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 25%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="781" height="552">
-</div>
-
-
-Thanks for visiting my GitHub profile 😊
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AbereGomes)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abere_gomes13)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@aberegomes)
 
 
+# Animation :
 
-<div align="center">
+### Animation Pratice
+<div>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 25%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="781" height="552">
+</div>
+
+### Snake Animation 
+<div>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 
 ## 🏆 GitHub Trophies
@@ -53,12 +45,6 @@ Thanks for visiting my GitHub profile 😊
 ![](https://github-readme-stats.vercel.app/api?username=AbereWEB13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AbereWEB13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbereWEB13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbereWEB13&limit=5&theme=dark&combine_all_yearly_contributions=true)
