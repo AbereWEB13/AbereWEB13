@@ -38,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github" />
 
 ### Code Editor
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,goland" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" />
 
 ## Animation 
 
