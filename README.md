@@ -32,10 +32,10 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,kotlin,python,go" />
 
 ### Framework 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,laravel,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,laravel,bootstrap" />
 
 ### Database & Version Control
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github" />
 
 
 ## Animation 
