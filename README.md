@@ -29,7 +29,7 @@
 
 ## 💻 Skills 
 ### Programming Language
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,kotlin,python,go" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,kotlin,python,go,json" />
 
 ### Framework 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,laravel,bootstrap" />
