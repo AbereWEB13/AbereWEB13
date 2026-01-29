@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,laravel,bootstrap" />
 
 ### Database & Version Control
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
 
 ### Code Editor
 <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" />
