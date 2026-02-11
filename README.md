@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,kotlin,python,go" />
 
 ### Framework 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,laravel,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,laravel,bootstrap" />
 
 ### Database & Version Control
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
