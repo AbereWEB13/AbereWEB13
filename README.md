@@ -29,16 +29,21 @@
 
 ## 💻 Skills 
 ### Programming Language
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,kotlin,python,go" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python,go" />
 
 ### Framework 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,laravel,bootstrap" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,django,laravel,bootstrap" />
+</p>
 
-### Database & Version Control
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+
+### Version Control
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 ### Code Editor
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 ## Animation 
 
