@@ -19,21 +19,20 @@
 👋 Hau nia naran Salvador Gomes  
 👨 Pronouns: He/Him  
 🔭 Currently hau trabalhadu ba projetu web no sistema  
-🌱 Currently hau aprende Laravel, Django, Golang, Flask, no CodeIgniter 4  
+🌱 Currently hau aprende Laravel, Django, Golang nst.
 🤝 Hau buka kolaborasaun ba web apps no projetus open-source  
 🤔 Hau buka ajuda ba backend avansa & integrasaun AI  
-💬 Pergunta ba hau kona-ba PHP, Python, Flask, CI4, ka database  
 📫 Halo kontaktu ho hau: GitHub | Email  
 ❤️ Hau gosta coding, aprende teknologia foun, no konstrui sistema  
 ⚡ Fun fact: Hau gosta transforma ideia sira ba aplikasaun real
 
 ## 💻 Skills 
 ### Programming Language
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,python,go" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,php,python,go" />
 
 ### Framework 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,django,laravel,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,laravel,bootstrap" />
 </p>
 
 ### Database
