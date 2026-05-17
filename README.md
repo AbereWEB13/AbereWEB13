@@ -32,7 +32,7 @@
 
 ### Framework 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,laravel,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,laravel,bootstrap,astro" />
 </p>
 
 ### Database
