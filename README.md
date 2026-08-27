@@ -16,15 +16,11 @@
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-👋 Hau nia naran Salvador Gomes  
-👨 He/Him  
-🔭 hau trabalhadu ba projetu web no sistema  
-🌱 hau aprende Laravel, Django, Golang nst.
-🤝 Hau buka kolaborasaun ba web apps no projetus open-source  
-🤔 Hau buka ajuda ba backend avansa & integrasaun AI  
-📫 Halo kontaktu ho hau: GitHub | Email  
-❤️ Hau gosta coding, aprende teknologia foun, no konstrui sistema  
-⚡ Hau gosta transforma ideia sira ba aplikasaun real
+* 📛 **Naran:** Salvador Gomes
+* 🎓 **Instituisaun:** Dili Institute of Technology (DIT)
+* 📍 **Fatin:** Dili, Timor-Leste
+* 💼 **Fokus:** Web & Backend Developer
+* 🎯 **Hobby:** Coding, aprende teknologia foun, no konstrui sistema
 
 ## 💻 Skills 
 ### Programming Language
