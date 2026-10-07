@@ -19,7 +19,6 @@
 * 📛 **Naran:** Salvador Gomes
 * 🎓 **Instituisaun:** Dili Institute of Technology (DIT)
 * 📍 **Fatin:** Dili, Timor-Leste
-* 💼 **Fokus:** Web & Backend Developer
 * 🎯 **Hobby:** Coding, aprende teknologia foun, no konstrui sistema
 
 ## 💻 Skills 
