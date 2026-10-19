@@ -36,8 +36,8 @@
 ### Version Control
 <img src="https://skillicons.dev/icons?i=git,github" />
 
-### Code Editor
-<img src="https://skillicons.dev/icons?i=vscode" />
+### Software
+<img src="https://skillicons.dev/icons?i=vscode,postman,godot" />
 
 ## Animation 
 
