@@ -19,7 +19,7 @@
 * 📛 **Naran:** Salvador Gomes
 * 🎓 **Instituisaun:** Dili Institute of Technology (DIT)
 * 📍 **Fatin:** Dili, Timor-Leste
-* 🎯 **Hobby:** Coding, aprende teknologia foun, no konstrui sistema
+* 🎯 **Hobby:** Coding, aprende teknologia foun, konstrui sistema no kria game
 
 ## 💻 Skills 
 ### Programming Language
